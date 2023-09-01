@@ -12,23 +12,23 @@ After the course, the student should have the following knowledge, skills, and c
 
 *Knowledge of*
 
-Descriptive statistical methods
+- Descriptive statistical methods
 
-Likelihood functions and maximum likelihood estimation
+- Likelihood functions and maximum likelihood estimation
 
-Least-squares methods, linear regression
+- Least-squares methods, linear regression
 
-Simple models for classification
+- Simple models for classification
 
-Presentation and validation of machine learning results
+- Presentation and validation of machine learning results
 
-Multivariate statistics
+- Multivariate statistics
 
-Presentation of analysis results, including visualisation by simple plotting
+- Presentation of analysis results, including visualisation by simple plotting
 
-Introduction to programming tools for data analysis
+- Introduction to programming tools for data analysis
 
-The student will also become familiar with the analytical derivation of algorithms for data analysis
+- The student will also become familiar with the analytical derivation of algorithms for data analysis
 
  
 
@@ -50,13 +50,13 @@ Perform the analysis of experimental data using the methods learnt during the co
 
 *Competences in*
 
-Building and using simple statistical models, assessing their relevance for solving concrete scientific problems, and quantifying uncertainty about the drawn conclusions.
+- Building and using simple statistical models, assessing their relevance for solving concrete scientific problems, and quantifying uncertainty about the drawn conclusions.
 
-Performing basic data analysis tasks which include modelling, visualisation, and interpretation of the results.
+- Performing basic data analysis tasks which include modelling, visualisation, and interpretation of the results.
 
-Assessing the limitations of the used methods.
+- Assessing the limitations of the used methods.
 
-Applying calculus tools, such as partial derivatives, gradients, and integrals.
+- Applying calculus tools, such as partial derivatives, gradients, and integrals.
 
 **Credit**
 
