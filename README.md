@@ -2,7 +2,7 @@
 
 **Content**
 
-The purpose of the course is to provide a basic and broad introduction to the representation, analysis, and processing of sampled data. The course will introduce the student to statistical analysis, mathematical modelling, machine learning and visualisation for experimental data. Examples will be taken from real-world problems, such as analysis of internet traffic, language technology, digital sound and image processing, etc.
+The purpose of the course is to provide a basic and broad introduction to the representation, analysis, and processing of sampled data. The course will introduce the student to statistical analysis, mathematical modelling, machine learning and visualisation for experimental data (with Python). Examples will be taken from real-world problems, such as analysis of internet traffic, language technology, digital sound and image processing, etc.
 
 **Learning outcome**
 
